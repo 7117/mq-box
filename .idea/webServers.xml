@@ -1,0 +1,32 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bfa0626f-df6d-476e-b8ef-06368b4f396e" name="192.168.146.130" url="http://192.168.146.130">
+        <fileTransfer host="192.168.146.130" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bfa0626f-df6d-476e-b8ef-06368b4f396e" name="192.168.146.130" url="http://192.168.146.130">
+        <fileTransfer host="192.168.146.130" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+>>>>>>> 7f3c18cb964a584429ac4e448cc1a2e2b4e26041
+</project>
